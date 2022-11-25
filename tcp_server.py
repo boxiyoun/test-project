@@ -131,3 +131,7 @@ if __name__ == "__main__":
         print("[채팅 서버 종료]")
         server.shutdown() #server_forever() 중지
         server.server_close()
+
+
+
+asefasfaoijszdgfklhjzsklhja;'sal;fgk;jadskl;jadfs'
